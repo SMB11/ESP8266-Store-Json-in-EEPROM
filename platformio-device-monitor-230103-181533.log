@@ -1,0 +1,14 @@
+
+Connecting to TechZone
+........
+WiFi connected
+IP address: 
+192.168.0.104
+Attempting MQTT connection...reconnected
+Subscribed to MainClimate_tasksUpdate
+Message arrived [MainClimate_tasksUpdate][{"task_number":1,"start_time":"07:00","end_time":"09:00","start_temp":19,"end_temp":21,"ventilationTemp":26,"start_humidity":80,"end_humidity":80},{"task_number":2,"start_time":"09:00","end_time":"16:00","start_temp":21,"end_temp":21,"ventilationTemp":26,"start_humidity":80,"end_humidity":80},{"task_number":3,"start_time":"16:00","end_time":"18:00","start_temp":21,"end_temp":19,"ventilationTemp":26,"start_humidity":80,"end_humidity":80},{"task_number":4,"start_time":"18:00","end_time":"07:00","start_temp":19,"end_temp":19,"ventilationTemp":26,"start_humidity":80,"end_humidity":80}]
+128
+EEPROM Updated
+Message arrived [MainClimate_tasksUpdate][{"task_number":1,"start_time":"07:00","end_time":"09:00","start_temp":19,"end_temp":21,"ventilationTemp":26,"start_humidity":80,"end_humidity":80},{"task_number":2,"start_time":"09:00","end_time":"16:00","start_temp":21,"end_temp":21,"ventilationTemp":26,"start_humidity":80,"end_humidity":80},{"task_number":3,"start_time":"16:00","end_time":"18:00","start_temp":21,"end_temp":19,"ventilationTemp":26,"start_humidity":80,"end_humidity":80},{"task_number":4,"start_time":"18:00","end_time":"07:00","start_temp":19,"end_temp":19,"ventilationTemp":26,"start_humidity":80,"end_humidity":80}]
+128
+EEPROM Updated
